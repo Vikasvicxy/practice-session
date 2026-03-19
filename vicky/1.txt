@@ -1,0 +1,19 @@
+.
+├── 1
+├── 1.top
+├── 1.txtt
+├── 2
+├── 3
+├── 4
+├── a
+├── archivedfile.tar.gz
+├── awk.log
+├── b
+├── c
+├── d
+├── e
+├── numerical.txt
+├── root.txt
+└── v
+
+4 directories, 12 files
